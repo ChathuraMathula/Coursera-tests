@@ -62,6 +62,7 @@ body {
 h2 {
 	color: #d0efff; /** light blue **/
 	font-weight: bold;
+	margin-bottom: 20px;
 }
 section {
 	background-color: #d0efff; /** light blue **/
